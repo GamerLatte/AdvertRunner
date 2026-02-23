@@ -6,11 +6,11 @@
     "AssumblyVersion": "1.0.0.0",
     "Description": "Configurable shout runner plugin."
     "Punchline": "Requires Lifestream and MacroRedux"
-    "RepoUrl": "https://gamerlatte.github.io/AdvertRunner/repo.json"
+    "RepoUrl": "https://github.com/GamerLatte/AdvertRunner"
     "ApplicableVersion": "any",
     "Tags": [ "utility" ],
     "DalamudApiLevel": "14",
-    "DownloadLinkInstall": "https://gamerlatte.github.io/AdvertRunner/repo.json"
-    "DownloadLinkTesting": "https://gamerlatte.github.io/AdvertRunner/repo.json"
+    "DownloadLinkInstall": "https://github.com/GamerLatte/AdvertRunner/releases/download/v1.0.0/AdvertRunner.zip"
+    "DownloadLinkTesting": "https://github.com/GamerLatte/AdvertRunner/releases/download/v1.0.0/AdvertRunner.zip"
   }
 ]
