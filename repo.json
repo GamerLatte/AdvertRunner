@@ -1,16 +1,16 @@
 [
   {
-    "Author": "Gamer Latte",
-    "Name": "Advert Runner",
+    "Author": "Selune Latte",
+    "Name": "AdvertRunner",
     "InternalName": "AdvertRunner",
-    "AssumblyVersion": "1.0.0.0",
-    "Description": "Configurable shout runner plugin."
-    "Punchline": "Requires Lifestream and MacroRedux"
-    "RepoUrl": "https://github.com/GamerLatte/AdvertRunner"
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Configurable shout runner plugin.",
+    "Punchline": "Requires Lifestream and MacroRedux",
+    "RepoUrl": "https://github.com/GamerLatte/AdvertRunner",
     "ApplicableVersion": "any",
-    "Tags": [ "utility" ],
-    "DalamudApiLevel": "14",
-    "DownloadLinkInstall": "https://github.com/GamerLatte/AdvertRunner/releases/download/v1.0.0/AdvertRunner.zip"
+    "Tags": ["utility"],
+    "DalamudApiLevel": 14,
+    "DownloadLinkInstall": "https://github.com/GamerLatte/AdvertRunner/releases/download/v1.0.0/AdvertRunner.zip",
     "DownloadLinkTesting": "https://github.com/GamerLatte/AdvertRunner/releases/download/v1.0.0/AdvertRunner.zip"
   }
 ]
