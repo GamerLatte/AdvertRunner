@@ -4,6 +4,7 @@
     "Name": "Advert Runner",
     "InternalName": "AdvertRunner",
     "AssemblyVersion": "1.0.1",
+    "TestingAssemblyVersion": "1.0.1",
     "Description": "Configurable shout runner plugin. Requires Lifestream and Macro Chain.",
     "Punchline": "Requires Lifestream and Macro Chain",
     "RepoUrl": "https://github.com/GamerLatte/AdvertRunner",
